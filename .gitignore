@@ -8,9 +8,7 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Models
-models/
-*.pkl
+
 
 # OS files
 .DS_Store
